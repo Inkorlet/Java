@@ -12,8 +12,6 @@ public class Main {
         Book book5 = new Book("Book5", 310, Arrays.asList("Author1", "Author2"), "Fantasy");
 
         ArrayList<Book> books = new ArrayList<>();
-//        Чомусь в мене не працює так як на відео - 'ArrayList arrayList = new ArrayList();'
-//        Потрібно було добавити <>, не розумію чому
         books.add(book1);
         books.add(book2);
         books.add(book3);
